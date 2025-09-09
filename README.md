@@ -39,7 +39,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&theme=dark)
 
 <p align="left">
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
