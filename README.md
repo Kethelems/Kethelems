@@ -26,8 +26,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&theme=dark)
 
 ---
 
