@@ -1,28 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- Banner alinhado centralizado -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Banner de tecnologia" width="60%"/>
+</div>
 
-# 👋 Olá, eu sou a Kethelem Socoowski
+# 👋 Olá! Eu sou **Kethelem Socoowski**
 
-## 💼 Perfil Profissional
-- 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia  
-- 🎓 Cursando **Análise e desenvolvimento de Sistemas no IFRS campus Rio Grande**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS - Campus Rio Grande** (4º semestre).  
+💼 Estagiária na **Compass UOL**, atuando com **AWS & AI for Quality Engineering**.  
+💻 Apaixonada por tecnologia, aprendizado contínuo e resolução de problemas com código.
 
 ---
 
-## 🚀 Habilidades  
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizada:
+## 🚀 Tecnologias e Habilidades
 
 ### 👨‍💻 Linguagens  
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,c,php,html,css)](https://skillicons.dev)
 
-### 🧰 Frameworks  
+### 🧰 Frameworks & Bibliotecas  
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-### ⚙️ Ferramentas  
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&theme=dark)
 
 ---
 
@@ -39,8 +44,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&theme=dark)
-
 <p align="left">
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+Fique à vontade para entrar em contato comigo para trocar ideias, colaborar em projetos ou conversar sobre tecnologia. 🚀
 </p>
+
