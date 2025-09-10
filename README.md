@@ -9,6 +9,14 @@
 💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL**  
 💡 Apaixonada por inovação, cloud computing e inteligência artificial.
 
+</div>
+
+  <!-- Imagem ao lado -->
+  <div style="flex: 1; min-width: 250px;" align="center">
+    <img src="assets/Adobe Express - file.png" alt="Ilustração" width="300px">
+  </div>
+
+</div>
 ---
 
 ## 🚀 Minhas Habilidades
