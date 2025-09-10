@@ -5,12 +5,12 @@
 
 ---
 
-| 👋 Olá, eu sou **Kethelem Socoowski** |
-|----------------------------------------|
-| 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre) |
-| 💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL** |
-| 💡 Apaixonada por inovação, cloud computing e inteligência artificial. |
-| ![Ilustração](assets/Adobe%20Express%20-%20file.png) |
+ 👋 Olá, eu sou **Kethelem Socoowski** 
+ ![Ilustração](assets/Adobe%20Express%20-%20file.png) 
+ 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre) 
+ 💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL** 
+ 💡 Apaixonada por inovação, cloud computing e inteligência artificial. 
 
 ---
 
