@@ -7,7 +7,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre)  
 💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL**  
-💡 Apaixonada por inovação, cloud computing e inteligência artificial.
+💡 "Apaixonada por tecnologia e inovação, com foco em QA e testes, cloud computing e inteligência artificial, sempre em busca de soluções eficientes e aprendizado contínuo.".
 
 ---
 
