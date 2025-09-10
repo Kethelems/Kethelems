@@ -1,22 +1,17 @@
-<!-- Banner com ilustração tech -->
+<!-- Banner com GIF no topo -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/intro.gif" alt="Gif tech" width="600"/>
 </div>
 
-# 👋 Olá, eu sou **Kethelem Socoowski**
+---
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre)  
-💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL**  
-💡 Apaixonada por inovação, cloud computing e inteligência artificial.
+<!-- Apresentação com imagem à esquerda -->
+| <img src="assets/Adobe Express - file.png" width="200px"> | 👋 Olá, eu sou **Kethelem Socoowski** <br><br>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre) <br>
+💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL** <br>
+💡 Apaixonada por inovação, cloud computing e inteligência artificial. |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-</div>
-
-  <!-- Imagem ao lado -->
-  <div style="flex: 1; min-width: 250px;" align="center">
-    <img src="assets/Adobe Express - file.png" alt="Ilustração" width="300px">
-  </div>
-
-</div>
 ---
 
 ## 🚀 Minhas Habilidades
@@ -54,5 +49,4 @@
 
 ✨ Obrigada por visitar meu perfil!  
 💬 Se quiser trocar uma ideia sobre tecnologia, AWS ou projetos interessantes, é só me chamar. 🚀
-
 
