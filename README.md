@@ -1,27 +1,28 @@
-<!-- Banner com GIF no topo -->
-<!-- Banner com GIF no topo -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/intro.gif" alt="Gif tech" width="600"/>
 </div>
 
 ---
 
-<!-- Apresentação com imagem à direita -->
-| 👋 Olá, eu sou **Kethelem Socoowski** <br><br>  <img src="assets/Adobe%20Express%20-%20file.png" width="150px"> 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre) <br>
-💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL** <br>
-💡 Apaixonada por inovação, cloud computing e inteligência artificial.
+<div align="center">
+  <img src="assets/Adobe%20Express%20-%20file.png" alt="Sua foto de perfil" width="150">
+</div>
 
+<div align="center">
+  <h3>👋 Olá, eu sou **Kethelem Socoowski**</h3>
+  
+  - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFRS – Campus Rio Grande** (4º semestre)
+  - 💼 Estagiária em **AWS & AI for Quality Engineering** na **Compass UOL**
+  - 💡 Apaixonada por inovação, cloud computing e inteligência artificial.
+</div>
 
 ---
 
 ## 🚀 Minhas Habilidades
 
-**Linguagens e Tecnologias**  
-[![Skills](https://skillicons.dev/icons?i=java,js,python,c,php,html,css,react,mysql,postgres,aws)](https://skillicons.dev)
+**Linguagens e Tecnologias** [![Skills](https://skillicons.dev/icons?i=java,js,python,c,php,html,css,react,mysql,postgres,aws)](https://skillicons.dev)
 
-**Ferramentas de Trabalho**  
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
+**Ferramentas de Trabalho** [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
 
 ---
 
