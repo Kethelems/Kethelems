@@ -17,7 +17,7 @@
 [![Skills](https://skillicons.dev/icons?i=java,js,python,c,php,html,css,react,mysql,postgres,aws)](https://skillicons.dev)
 
 **Ferramentas de Trabalho**  
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,phytest,postman)](https://skillicons.dev)
 
 ---
 
