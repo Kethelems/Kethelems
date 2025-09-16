@@ -18,6 +18,7 @@
 
 **Ferramentas de Trabalho**  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)](https://skillicons.dev)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
 
