@@ -16,7 +16,7 @@
 **Linguagens e Tecnologias**  
 [![Skills](https://skillicons.dev/icons?i=java,js,python,c,php,html,css,react,mysql,postgres,aws)](https://skillicons.dev)
 
-**Ferramentas de Trabalho**  
+**Ferramentas e Frameworks de Trabalho**  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)](https://skillicons.dev)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
