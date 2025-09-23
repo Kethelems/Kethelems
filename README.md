@@ -28,7 +28,7 @@
 
 <div align="center">
   
-  ![Kethelems GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark) <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAvilaPereira&layout=compact&hide=HTML,CSS,Vue,Roff,Tex" />
+  ![Kethelems GitHub stats](https://github-readme-stats.vercel.app/api?username=Kethelems&show_icons=true&theme=dark) <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethelems&layout=compact&hide=HTML,CSS,Vue,Roff,Tex" />
 
 
 
